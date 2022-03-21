@@ -1,4 +1,11 @@
-### Hi there 👋
+<img src="https://github-stats.liuli.lol/api?username=zouyaoji&theme=vue&show_icons=true&include_all_commits=true&count_private=true" align="right">
+
+### 👋 Hi there, I'm zouyaoji.
+
+- 🌱 I'm a GISer from Chengdu, China.
+- 🔭 I’m currently working at SPD and working on weather visualization.
+- 📫 I’m a core contributor of [vue-cesium](https://github.com/zouyaoji/vue-cesium). 
+- 💬 Be free to reach me: [E-Mail](mailto:370681295@qq.com) or [here](https://github.com/zouyaoji/zouyaoji/issues).
 
 <!--
 **zouyaoji/zouyaoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
