@@ -3,7 +3,7 @@
 ### 👋 Hi there, I'm zouyaoji.
 
 - 🌱 I'm a GISer from Chengdu, China, graduated from Chengdu University of Technology.
-- 🔭 I’m currently working at SPD and working on weather visualization.
+- 🔭 I’m currently working at CloudTao and working on weather visualization.
 - 📫 I’m a core contributor of [vue-cesium](https://github.com/zouyaoji/vue-cesium). This project made me officially certified as a Cesium Certified Developer.
 - 💬 Be free to reach me: [E-Mail](mailto:370681295@qq.com) or [here](https://github.com/zouyaoji/zouyaoji/issues).
 
