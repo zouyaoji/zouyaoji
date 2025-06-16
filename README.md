@@ -1,4 +1,4 @@
-<img src="https://github-stats.liuli.lol/api?username=zouyaoji&theme=vue&show_icons=true&include_all_commits=true&count_private=true" align="right">
+<img src="https://github-stats.aika.dev/api?username=zouyaoji&theme=vue&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 ### 👋 Hi there, I'm zouyaoji.
 
